@@ -8,5 +8,5 @@ Aplicação para uma padaria em Java usando form JFrame e banco dados MySQL.
 
 - Cadastro de usuários
 - Cadastro de produtos, editar e consultar
-- venda dos produtos
+- Venda dos produtos
 - Relátorio de vendas e produtos no sistema
